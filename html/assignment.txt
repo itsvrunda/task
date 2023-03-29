@@ -1,0 +1,24 @@
+Name:Thakkar vrunda m.
+Course:Frontend Development
+
+			ASSIGNMENT
+
+1.Are the html tags and elements the same thing?
+->No, the html tags and elements are not the same thing because 
+elements are hold by the tags and the elements holds the content.
+eg: elements      tags
+    .<li>        .<body>
+    .<div>       .<head>
+    .<pre>       .<br>
+
+2.what are the tags and attributes in html?
+->
+
+3.what are void elements in html?
+->The elements in which we don't need to specify an end tag.it is
+also known as unclosing or selfclosing tag.
+eg: .<br>
+    .<hr>
+
+4.what are html Entities?
+->To represent something or symbol.
